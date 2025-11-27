@@ -1,1 +1,6 @@
-line1
+hello world
+python is great
+happy thanksgiving
+don't spend all your money on white friday
+it's 27/11/25
+less than a month to christmas
