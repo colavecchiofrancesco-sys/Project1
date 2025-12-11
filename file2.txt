@@ -1,0 +1,14 @@
+This a git testing on terminal window 11/12/2025 
+and Norris won the world championship          
+  
+
+
+
+
+
+
+House.py
+file1.txt
+file2.txt
+terminal.py
+testingiPhone.py
