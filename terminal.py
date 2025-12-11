@@ -1,0 +1,15 @@
+print('today is thursday')
+
+
+
+
+
+
+
+
+
+
+
+
+
+
