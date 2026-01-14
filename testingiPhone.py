@@ -43,7 +43,7 @@
 
 <py-script>
 from js import document
-import random
+import random 
 
 score = 0
 target = document.getElementById("target")
@@ -69,6 +69,7 @@ move_target()
 # Attach callback
 target.addEventListener("click", on_tap)
 </py-script>
+
 
 </body>
 </html>
